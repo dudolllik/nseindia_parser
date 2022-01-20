@@ -6,7 +6,7 @@ Parser Final price from Pre-Open Market table
 
 ## Configurating 
 
-Fill in ~config.ini~ your autentification data
+Fill in ***config.ini*** your autentification data
 For example 
 ``` 
 [Proxy]
@@ -19,5 +19,7 @@ type = "http" # or "https"
 
 ## Running 
 
-`pip3 install -r requirements.txt`
-`python3 parser_ns.py`
+```
+pip3 install -r requirements.txt
+python3 parser_ns.py
+```
